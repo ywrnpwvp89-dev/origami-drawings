@@ -4,7 +4,7 @@ Three redrawn crease patterns and interactive paper-structure views. Red: mounta
 
 The public site contains redrawn vectors and model geometry only. No original reference photos or source scans are included.
 
-The 3D views show folding intermediate states. The second model reconstructs visible surfaces from a photograph and estimates depth; it is not a solved continuous folding path. Some reconstructed crease directions remain unverified.
+The 3D views show folding intermediate states. The Spring of Hope slider displays an experimental numerical trial that did not pass edge-length checks; it is not a verified folding path. Some reconstructed crease directions remain unverified.
 
 The third work follows the Sprout study by Riccardo Foschi. This repository presents study redrawings rather than official author instructions.
 
