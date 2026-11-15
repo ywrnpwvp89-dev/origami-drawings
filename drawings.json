@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "title": "作品一",
+    "name": "高筒盆栽",
+    "ratio": "2:1",
+    "source_kind": "numerical intermediate snapshot",
+    "M/V_status": "reconstructed, not all directions independently verified"
+  },
+  {
+    "id": "02",
+    "title": "作品二",
+    "name": "双叶新芽",
+    "ratio": "2:1",
+    "source_kind": "photo surface reconstruction",
+    "M/V_status": "reconstructed, not all directions independently verified"
+  },
+  {
+    "id": "03",
+    "title": "作品三",
+    "name": "圆盆嫩芽",
+    "ratio": "1:1",
+    "source_kind": "numerical intermediate snapshot",
+    "M/V_status": "reconstructed, not all directions independently verified"
+  }
+]
